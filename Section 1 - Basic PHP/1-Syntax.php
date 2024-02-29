@@ -49,7 +49,7 @@ $name = 'Marcos';
 echo 'Hello' . $name . "\n"; // Output: HelloMarcos
 
 // $this variable
-// $this is a special variable in PHP, commonly used in object-oriented programming.
+// $this is a special variable in PHP, commonly used in object-oriented programming. This name cannot be used as a normal variable.
 
 // Assigning by Value vs Reference
 $a = 5;
